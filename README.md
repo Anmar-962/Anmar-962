@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Anmar Ali Al-Taani
+<img width="1000" alt="Anmar Ali Al-Taani — animated AI and data science header" src="https://github.com/user-attachments/assets/d8764a8e-cad2-4072-ae05-3bc2e6181a36" />
 
 ### AI & Robotics Student · Python · Data Science
 
@@ -21,12 +21,12 @@ From data exploration and forecasting to machine learning APIs and dashboards.
 
 ## About Me
 
-I am a fourth-year Artificial Intelligence and Robotics student at **Jadara University** in Jordan, expecting to graduate in **July 2027**. I completed a **Data Science internship at SITECH**, where I worked on data preparation, machine learning, sales forecasting, and visualization.
+I am a fourth-year Artificial Intelligence and Robotics student at **Jadara University** in Jordan, expecting to graduate in **July 2027**.
 
 My projects connect notebook-based modeling with practical applications, including a fraud detection API and dashboard, forecasting scripts, and a command-line expense tracker.
 
 - **Focus:** artificial intelligence, machine learning, and data science
-- **Experience:** Python data workflows, model building, evaluation, and visualization
+- **Skills:** Python data workflows, model building, evaluation, and visualization
 - **Seeking:** opportunities in AI, machine learning, or data science
 
 ## Technical Toolkit
@@ -39,15 +39,11 @@ My projects connect notebook-based modeling with practical applications, includi
 | Databases & tools | Oracle Database, Jupyter Notebook, GitHub |
 | Foundations | Data structures, mathematics, networking, embedded systems |
 
-## Experience
+## Education
 
-### Data Science Intern · SITECH
-
-**August 2025 - October 2025**
-
-- Developed a four-week sales forecast for an avocado farm and distributor using machine learning.
-- Cleaned, transformed, and analyzed datasets with Python, pandas, and NumPy.
-- Built and evaluated models with scikit-learn and created visualizations to communicate findings.
+**Bachelor's Degree in Artificial Intelligence and Robotics**  
+Jadara University · Irbid, Jordan  
+Fourth-year student · Expected graduation: July 2027
 
 ## Featured Projects
 
@@ -73,11 +69,6 @@ A Python command-line tool for recording, updating, and deleting expenses, savin
 
 Additional work includes avocado sales forecasting, student performance prediction, and a utility for extracting text from PowerPoint files. These projects currently live alongside the expense tracker in the same repository.
 
-## Education
-
-**Bachelor's Degree in Artificial Intelligence and Robotics**  
-Jadara University · Irbid, Jordan  
-Fourth-year student · Expected graduation: July 2027
 
 ## Certifications & Membership
 
